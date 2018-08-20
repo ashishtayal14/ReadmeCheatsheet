@@ -160,6 +160,14 @@ This line is separated from the one above by two newlines, so it will be a *sepa
 This line is also a separate paragraph, but...
 This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
 
+## Emojis
+
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat: 
+
+[Supported git emojis](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
 ## YouTube Videos
 
 They can't be added directly but you can add an image with a link to the video like this:
