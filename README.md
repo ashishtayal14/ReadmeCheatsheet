@@ -187,6 +187,31 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0-YrRDlV0Gg/0.jpg)](http://www.youtube.com/watch?v=0-YrRDlV0Gg)
 
+
+## SHA 
+
+Any reference to a commit’s SHA-1 hash will be automatically converted into a link to that commit on GitHub.
+
+```
+16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo@16c999e8c71134401a78d4d46435517b2271d6ac
+mojombo/github-flavored-markdown@16c999e8c71134401a78d4d46435517b2271d6ac
+```
+
+## Issue references within a repository
+
+Any number that refers to an Issue or Pull Request will be automatically converted into a link.
+
+```
+#1
+mojombo#1
+mojombo/github-flavored-markdown#1
+```
+
+## Username @mentions
+
+Typing an @ symbol, followed by a username, will notify that person to come and view the comment. This is called an “@mention”, because you’re mentioning the individual. You can also @mention teams within an organization.
+
 ## TeX Mathematical Formulae
 
 A full description of TeX math symbols is beyond the scope of this cheatsheet. Here's a good reference, and you can try stuff out on CodeCogs. You can also play with formulae in the Markdown Here options page.
