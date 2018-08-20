@@ -36,7 +36,18 @@ Strikethrough uses two tildes. ~~Scratch this.~~
   1. Ordered sub-list
 4. And another item.  
    
-   Some text that should be aligned with the above item.
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+   
+Some text that should be aligned with the above item.
 
 * Unordered list can use asterisks
 - Or minuses
